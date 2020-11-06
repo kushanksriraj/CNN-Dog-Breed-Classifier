@@ -20,6 +20,9 @@ Also, check **requirements.txt** for all other suppporting libraries.
       $ pip install -r requirements.txt
      ```
   - Start the notebook server and launch **dog_app.ipynb**     
+  
+  
+![alt text](/prediction-pic.png)
     
 ### Dataset
 The dataset is provided by Udacity.
